@@ -70,7 +70,7 @@ header button {
 
 .home {
     background-color: var(--gray); 
-    padding: 100px 100px; padding-bottom: 58px;
+    padding: 64px 100px; padding-bottom: 58px;
     height: 90vh;
     z-index: -9999;
     overflow: hidden;
