@@ -301,6 +301,12 @@ header button {
     margin-bottom: 24px;
 }
 
+#availabletext {
+    gap: 8px;
+    display: flex;
+    align-items: flex-start;
+}
+
 #available img {
     width: 70px;
    height: 70px;
@@ -321,7 +327,8 @@ header button {
     height: 10px;
     background: #32d74b;
     border-radius: 60px;
-    display: inline-block;
+    align-self: flex-start;
+    margin-right: 0;
 }
 
 #contactcard button {
